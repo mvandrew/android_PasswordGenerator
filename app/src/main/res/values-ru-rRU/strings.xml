@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Генератор Паролей</string>
+    <string name="label_tabItemRandom">Случайный Пароль</string>
+    <string name="label_tabItemHash">Хэш Пароля</string>
+    <string name="label_switchUpperCase">Прописные (A–Z)</string>
+    <string name="label_switchLowerCase">Строчные (a–z)</string>
+    <string name="label_switchNumbers">Цифры (0–9)</string>
+    <string name="label_switchSpecial">Спецсимволы</string>
+    <string name="label_textViewPassword">Пароль</string>
+    <string name="label_textViewLength">Длина Пароля</string>
+    <string name="label_imageButtonCopy">Копировать Пароль</string>
+    <string name="label_imageButtonRefresh">Обновить Пароль</string>
+    <string name="label_textViewHashLabel">Хэш Пароля</string>
+    <string name="label_textViewPassphrase">Фраза для кодирования</string>
+    <string name="label_textViewAlgorithm">Алгоритм</string>
+    <string name="label_copy_action">Скопировано в Буфер</string>
+    <string name="label_refresh_password_action">Пароль Обновлён</string>
+    <string name="label_action_about">О программе</string>
+    <string name="text_about_header">%1$s вер.%2$s</string>
+    <string name="text_about_support">Пишите на <b>info@msav.ru</b>. Буду рад ответить на вопросы и предложения.</string>
+    <string name="text_about_feedback">Обратная связь</string>
+    <string name="text_about_copy">2018 © Андрей Мищенко</string>
+</resources>
